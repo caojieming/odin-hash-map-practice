@@ -1,0 +1,6 @@
+class HashMap {
+    constructor() {
+        
+    }
+}
+
